@@ -1,0 +1,15 @@
+[caps]>[`]
+[obrack]>[7]
+[cbrack]>[8]
+[`]>[caps]
+[7]>[obrack]
+[8]>[cbrack]
+[lctrl]>[rwin]
+[rctrl]>[rwin]
+[rwin]>[rctrl]
+{rwin}{v}>{-rwin}{v}{+rwin}
+{lctrl}{i}>{-lshift}{end}{+lshift}{-rwin}{x}{+rwin}{bspace}{tab}{tab}{tab}{-rwin}{v}{+rwin}{-rctrl}{enter}{+rctrl}{-rwin}{enter}{+rwin}
+{lalt}{o}>{lalt}{down}{-rwin}{v}{+rwin}{down}{-rwin}{v}{+rwin}{down}{-rwin}{v}{+rwin}{down}{-rwin}{v}{+rwin}{down}{-rwin}{v}{+rwin}
+{rwin}{c}>{-rwin}{c}{+rwin}
+{rctrl}{i}>{-lshift}{end}{+lshift}{-rwin}{x}{+rwin}{bspace}{tab}{tab}{tab}{-rwin}{v}{+rwin}{-rwin}{enter}{+rwin}
+{rwin}{t}>{-lalt}{f12}{+lalt}
